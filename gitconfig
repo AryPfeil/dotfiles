@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rhodia.cynop@proton.me
+	name = Matthieu Bailly
